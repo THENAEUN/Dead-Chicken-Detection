@@ -47,6 +47,3 @@ git clone [https://github.com/THENAEUN/Dead-Chicken-Detection.git](https://githu
 # Install required libraries
 pip install -r requirements.txt
 
-## results
-
-[Click here to watch the full demo video](results/movement_analysis_result.gif)
