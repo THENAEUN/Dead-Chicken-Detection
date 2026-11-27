@@ -1,4 +1,3 @@
-@ -1,140 +0,0 @@
 # Dead-Chicken-Detection & Behavioral Analysis
 
 YOLOv8 기반 객체 탐지와 움직임 분석을 활용한 양계장 폐사 의심 개체 모니터링 시스템
