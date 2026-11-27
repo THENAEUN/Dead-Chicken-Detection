@@ -1,0 +1,1 @@
+# Dead chicken object detection
